@@ -16,7 +16,8 @@
           <ul class="nav navbar-nav navbar-right lsu-links">
             <li><a class="scroll hidden" href="#home"></a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/documentation") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/documentation">Documentation</a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/partials/about">About</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
+            <!-- <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/partials/about">About</a></li> -->
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/partials/contact">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
