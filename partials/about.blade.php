@@ -9,8 +9,16 @@
       Computational Systems Biology can be considered as a complex platform that integrates many algorithms from different research areas such as Structural Bioinformatics, Functional Genomics, Cheminformatics and Pharmacogenomics.
       We develop computational tools to study the evolution and organization of pathways into biological networks with the primary application in modern drug discovery and design.
       Biological pathways, which are the common units of biological networks, can be broadly defined as the series of interactions between molecular entities such as proteins, nucleic acids and small organic molecules that trigger a variety of cellular responses.
-      Their malfunction can be often directly linked to many disease states. Our ambitious goal is to reveal the underlying principles of biological network evolution, organization and dynamics.
+      Their malfunction can be often directly linked to many disease states.
+      </p>
+
+      <p style="font-size:18px; margin-top:20px;" align="left">
+      Our ambitious goal is to reveal the underlying principles of biological network evolution, organization and dynamics.
       By doing so, we hope to be able to predict the phenotypic outcome of biological network perturbations.
+      </p>
+
+      <p style="font-size:18px; margin-top:20px;" align="left">
+      Currently we offer web services to model protein structures and infer their molecular functions. More tools will become available in the near future.
       </p>
     </div>
   </div>  
