@@ -5,13 +5,7 @@
       <hr class="separation-line blue-bg"/>
 
       <p style="font-size:18px; margin-top:20px;" align="left">
-      Department of Biological Sciences <br>
-      407 Choppin Hall<br>
-      Louisiana State University<br>
-      Baton Rouge, LA 70803<br>
-      Tel: (225) 578-2791<br>
-      Fax: (225) 578-2597<br>
-      www.brylinski.org    <br>
+Please email singlecell@wharton.upenn.edu. We strive to resolve all queries within 72 hours. We would also love to hear your feedback on how your experience was in using our web portal.
       </p>
 
     </div>
