@@ -6,7 +6,7 @@
 
         <p style="font-size:18px; margin-top:20px;" align="left">
         It is critical to have our work cited so we can continue to develop exciting tools for you.
-        Please be sure to not only cite https://sciencegateway.brylinski.org, but to also cite <a href="https://www.biorxiv.org/content/10.1101/457879v2">Our Publication</a>
+        Please be sure to not only cite our gateway, https://singlecellgateway.wharton.upenn.edu/, but to also cite <a href="https://www.biorxiv.org/content/10.1101/457879v2">Our Publication</a>.
         </p>
         <br></br>
         <h4 class="text-left">Acknowledgements</h4>
