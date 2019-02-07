@@ -1,5 +1,5 @@
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.png" width="200%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saverx-banner.jpg" width="200%"/>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
@@ -10,7 +10,7 @@
 <div class="col-md-12 breathing-space">
   <div class="row">
     <div class="col-md-offset-1 col-md-2">
-      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/lsu-logo.png" width="100%"/>
+      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saver-logo.png" width="100%"/>
       <hr/>
       <a href="{{ URL::to('/') }}/login">
         <h4>Login</h4>
@@ -22,14 +22,16 @@
       <hr/>
     </div>
     <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>LSU Gateway</h1>
+      <h1>Saver-X Gateway</h1>
       <p style="color:#cccccc;">
       <h2>Welcome!</h2>
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:14px; margin-top:20px;">
-        Welcome to Louisiana State University Science Gateway
+        In most single cell transcriptomics (scRNA-seq) studies, the data are extremely sparse and noisy, hindering downstream analyses.
+        To address this problem, we have developed Single-cell Analysis Via Expression Recovery via harnessing external data (SAVER-X),
+        a method for gene expression denoising and imputation.
       </p>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
