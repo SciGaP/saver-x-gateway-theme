@@ -1,5 +1,5 @@
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saverx-banner.jpg" style="width:1000px;height:300px;"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.jpg" width="100%"/>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
@@ -28,7 +28,7 @@
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
-      <p style="font-size:14px; margin-top:20px;">
+      <p style="font-size:18px; margin-top:20px;">
         In most single cell transcriptomics (scRNA-seq) studies, the data are extremely sparse and noisy, hindering downstream analyses.
         To address this problem, we have developed Single-cell Analysis Via Expression Recovery via harnessing external data (SAVER-X),
         a method for gene expression denoising and imputation.
