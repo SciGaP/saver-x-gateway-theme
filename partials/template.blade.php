@@ -1,5 +1,5 @@
 <div>
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saverx-banner.jpg" width="50%" height="100%"/>
+  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saverx-banner.jpg" style="width:500px;height:600px;"/>
   <!--
     <h1>Hero Image</h1>
     <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
