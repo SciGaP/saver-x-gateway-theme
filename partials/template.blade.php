@@ -10,7 +10,7 @@
 <div class="col-md-12 breathing-space">
   <div class="row">
     <div class="col-md-offset-1 col-md-2">
-      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/saver-logo.png" width="100%"/>
+      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/new-csbg-banner.jpg" width="100%"/>
       <hr/>
       <a href="{{ URL::to('/') }}/login">
         <h4>Login</h4>
