@@ -5,7 +5,7 @@
 <div class="col-md-12 new-collaborators text-center">
     <div class="col-md-offset-2 col-md-2">
     	<a href="https://scigap.org/" target="_blank">
-        <img width="50%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/scigap-header-logo.png">
+        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/scigap-header-logo.png">
     	</a>
     </div>
 	<div class="col-md-2">
@@ -15,12 +15,12 @@
 	</div>
     <div class="col-md-2">
     	<a href="https://www.xsede.org/" target="_blank">
-        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
+        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/XSEDE-Logo.jpg">
     	</a>
     </div>
 	<div class="col-md-2">
 		<a href="https://www.nsf.gov/" target="_blank">
-		<img width="45%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
+		<img width="45%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/NSF_4-Color_bitmap_Logo.png">
 		</a>
 	</div>
 </div>
