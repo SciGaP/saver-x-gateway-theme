@@ -1,4 +1,4 @@
-<title>LSU Gateway</title>
+<title>Colorado Mines Quantum Simulation Gateway</title>
 <div id="navbar" class="navbar">
       <div class="container-fluid">
         <div class="navbar-header">
