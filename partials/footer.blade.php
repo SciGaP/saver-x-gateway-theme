@@ -20,7 +20,7 @@
     </div>
 	<div class="col-md-2">
 		<a href="https://www.nsf.gov/" target="_blank">
-		<img width="40%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/NSF_4-Color_bitmap_Logo.png">
+		<img width="40%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
 		</a>
 	</div>
 </div>
