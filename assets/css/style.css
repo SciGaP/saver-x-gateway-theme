@@ -44,10 +44,11 @@ body{
 .credits {
 	margin-top: 100px;
 }
-
+/*
 .panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page {
 	display: none;
 }
+*/
 /*
 .compute-resource-summary {
 	display:none;
